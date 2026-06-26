@@ -11,10 +11,6 @@ A simple Java console application that converts temperatures between Celsius and
 - User-friendly menu
 - Input validation
 
-## Screenshots
-
-![Temperature Converter Output](screenshots/output.png)
-
 ## Technologies Used
 - Java
 - Scanner Class
